@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Power BI Survey", "Power BI Survey\", "{2EFE8A9E-5D37-43BB-92AE-99C7FCD90C28}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_60707"
+		Debug.AspNetCompiler.PhysicalPath = "Power BI Survey\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60707\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_60707"
+		Release.AspNetCompiler.PhysicalPath = "Power BI Survey\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60707\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "60707"
+		SlnRelativePath = "Power BI Survey\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EFE8A9E-5D37-43BB-92AE-99C7FCD90C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EFE8A9E-5D37-43BB-92AE-99C7FCD90C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE1116B3-1DB7-40B3-9ABB-5AD1860D3F21}
+	EndGlobalSection
+EndGlobal
